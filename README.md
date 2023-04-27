@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bubblesnake
+- 👋 Hi, I’m Wei.
 - 👀 I’m interested in embedded, networking and IoT.
 
 <!---
